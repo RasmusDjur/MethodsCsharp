@@ -1,0 +1,14 @@
+/Users/rasmusdjur/Desktop/MethodsCsharp/MethodsC#/MethodsC#/bin/Debug/net9.0/MethodsC#
+/Users/rasmusdjur/Desktop/MethodsCsharp/MethodsC#/MethodsC#/bin/Debug/net9.0/MethodsC#.deps.json
+/Users/rasmusdjur/Desktop/MethodsCsharp/MethodsC#/MethodsC#/bin/Debug/net9.0/MethodsC#.runtimeconfig.json
+/Users/rasmusdjur/Desktop/MethodsCsharp/MethodsC#/MethodsC#/bin/Debug/net9.0/MethodsC#.dll
+/Users/rasmusdjur/Desktop/MethodsCsharp/MethodsC#/MethodsC#/bin/Debug/net9.0/MethodsC#.pdb
+/Users/rasmusdjur/Desktop/MethodsCsharp/MethodsC#/MethodsC#/obj/Debug/net9.0/MethodsC#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rasmusdjur/Desktop/MethodsCsharp/MethodsC#/MethodsC#/obj/Debug/net9.0/MethodsC#.AssemblyInfoInputs.cache
+/Users/rasmusdjur/Desktop/MethodsCsharp/MethodsC#/MethodsC#/obj/Debug/net9.0/MethodsC#.AssemblyInfo.cs
+/Users/rasmusdjur/Desktop/MethodsCsharp/MethodsC#/MethodsC#/obj/Debug/net9.0/MethodsC#.csproj.CoreCompileInputs.cache
+/Users/rasmusdjur/Desktop/MethodsCsharp/MethodsC#/MethodsC#/obj/Debug/net9.0/MethodsC#.dll
+/Users/rasmusdjur/Desktop/MethodsCsharp/MethodsC#/MethodsC#/obj/Debug/net9.0/refint/MethodsC#.dll
+/Users/rasmusdjur/Desktop/MethodsCsharp/MethodsC#/MethodsC#/obj/Debug/net9.0/MethodsC#.pdb
+/Users/rasmusdjur/Desktop/MethodsCsharp/MethodsC#/MethodsC#/obj/Debug/net9.0/MethodsC#.genruntimeconfig.cache
+/Users/rasmusdjur/Desktop/MethodsCsharp/MethodsC#/MethodsC#/obj/Debug/net9.0/ref/MethodsC#.dll
