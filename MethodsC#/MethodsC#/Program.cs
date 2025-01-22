@@ -104,8 +104,6 @@
             Console.ReadKey();
 
         }
-
-    
         // Metode, der udskriver brugerens input
         private static void PrintInput(string input)
         {
@@ -141,13 +139,12 @@
             Console.WriteLine($"Summen af de tre tal er: {sum}");
             Console.ReadKey();
         }
-
         private static int TalSum(int tal1, int tal2, int tal3)
         {
             return tal1 + tal2 + tal3; 
-
         }
     }
+
     internal class Opgave3A
     {
         public static void TalInputA()
@@ -176,11 +173,9 @@
             Console.WriteLine($"Summen af de tre tal er: {sum}");
             Console.ReadKey();
         }
-
         private static int TalSumMinus(int tal1, int tal2, int tal3)
         {
             return tal1 - tal2 - tal3; 
-
         }
     }
 
@@ -212,11 +207,9 @@
             Console.WriteLine($"Summen af de tre tal er: {sum}");
             Console.ReadKey();
         }
-
         private static int TalSumGange(int tal1, int tal2, int tal3)
         {
             return tal1 * tal2 * tal3; 
-
         }
     }
 
@@ -248,11 +241,9 @@
             Console.WriteLine($"Summen af de tre tal er: {sum}");
             Console.ReadKey();
         }
-
         private static int TalSumGange(int tal1, int tal2, int tal3)
         {
             return (tal1 + tal2) / tal3; 
-
         }
     }
 
@@ -278,9 +269,6 @@
             Console.WriteLine($"Hej {navn} {besked}");
 
             Console.ReadKey();
-
-
-
         }
 
         private static string BestemAldersGruppe(string navn, int alder)
@@ -308,13 +296,10 @@
             {
                 besked = "Nu begynder livet at blive alvor";
             }
-
             return besked;
-
         }
     }
 
-        
     internal class Opgave5
     {
         public static void OpdelString()
@@ -339,16 +324,37 @@
             }
 
             Console.ReadKey();
-
-
         }
-
         // metode der splitter string og returnere array 
         private static string[] SplitString(string input)
         {
             // splitter string ved komma og returnerer et array 
             return input.Split(',');
         }
+    }
+
+    internal class Opgave6 
+    {
+        public static void GætEtTal()
+        {   
+            // bed bruger om at gætte det tilfældige tal 
+            Console.WriteLine("Gæt et tilfældigt tal mellem 1-25");
+            // tilfældigt tal 
+            int tilfædigTal = TilfældigtTal();
+        }
+
+        // metode til at generer tilfædigt tak mellem 1 - 25
+        private static int TilfældigtTal()
+        {
+           // opretter en ny instans af Random-klassen 
+           Random tilfædig = new Random();
+
+           // genererer et tilfældigt tal mellem 1-25
+           return tilfædig.Next(1,26);
+        }
+
+        
+
     }
 }
 
