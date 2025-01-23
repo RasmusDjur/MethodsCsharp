@@ -12,3 +12,4 @@
 /Users/rasmusdjur/Desktop/MethodsCsharp/MethodsC#/MethodsC#/obj/Debug/net9.0/MethodsC#.pdb
 /Users/rasmusdjur/Desktop/MethodsCsharp/MethodsC#/MethodsC#/obj/Debug/net9.0/MethodsC#.genruntimeconfig.cache
 /Users/rasmusdjur/Desktop/MethodsCsharp/MethodsC#/MethodsC#/obj/Debug/net9.0/ref/MethodsC#.dll
+/Users/rasmusdjur/Desktop/MethodsCsharp/MethodsC#/MethodsC#/obj/Debug/net9.0/MethodsC#.sourcelink.json
